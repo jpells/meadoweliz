@@ -1,1 +1,3 @@
+Cartridge==0.9.1
 Mezzanine==3.0.4
+stripe==1.14.0
